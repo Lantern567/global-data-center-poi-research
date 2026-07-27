@@ -94,6 +94,7 @@ name_only
 ## 仓库内容
 
 - [`docs/research-report.md`](docs/research-report.md)：详细来源核查与使用建议；
+- [`docs/climate-24x7-cfe-literature-review.md`](docs/climate-24x7-cfe-literature-review.md)：气候变化对数据中心 24/7 CFE 的文献证据、研究缺口与论文设计；
 - [`sources.csv`](sources.csv)：机器可读来源清单；
 - [`queries/overpass_data_centers.ql`](queries/overpass_data_centers.ql)：OSM 数据中心查询；
 
