@@ -2,7 +2,7 @@
 
 本仓库汇总全球数据中心 POI、建筑轮廓、设施地址和技术属性数据源，并核查它们的空间粒度、覆盖范围、字段完整性、开放程度与许可限制。
 
-核查日期：**2026-07-27**
+数据核查日期：**2026-07-27**；研究方案更新：**2026-07-29**。
 
 > 本仓库只发布调研结果、来源索引和可复现查询，不再分发受限制的上游原始数据。
 
@@ -95,6 +95,8 @@ name_only
 
 - [`docs/research-report.md`](docs/research-report.md)：详细来源核查与使用建议；
 - [`docs/climate-24x7-cfe-literature-review.md`](docs/climate-24x7-cfe-literature-review.md)：气候变化对数据中心 24/7 CFE 的文献证据、研究缺口与论文设计；
+- [`docs/research-proposal.md`](docs/research-proposal.md)：完整研究方案，包含 S1–S5 地理匹配情境、需求—供给耦合、未来气候压力测试与适应优化；
+- [`docs/demand-growth-technology-learning.md`](docs/demand-growth-technology-learning.md)：最近三年需求模板、未来需求增长、风光储学习曲线与三因素全因子实验；
 - [`sources.csv`](sources.csv)：机器可读来源清单；
 - [`queries/overpass_data_centers.ql`](queries/overpass_data_centers.ql)：OSM 数据中心查询；
 
